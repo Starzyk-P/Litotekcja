@@ -1,9 +1,4 @@
 
-
-No accessible repositories. Click Refresh to check again.
-No accessible repositories. Click Refresh to check again.
-rgb *
-
 var sent2 = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED"),
     geometry = 
     /* color: #d63000 */
